@@ -1,0 +1,11 @@
+{
+  "name": "electron-album-art",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/thapedict/electron-album-art",
+  "author": "Thapelo Moeti <benzitto@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^11.2.3"
+  }
+}
